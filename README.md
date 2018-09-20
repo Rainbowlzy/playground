@@ -2,6 +2,9 @@
 
 > A PLAYGROUND
 
+	这个项目是尝试vue,vuex,webpack 等诸多技术的样板项目。
+	原本计划使用在生产环境，后因为种种原因废弃。
+
 ## Build Setup
 
 ``` bash
